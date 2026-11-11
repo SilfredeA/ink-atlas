@@ -49,3 +49,5 @@ Names are in `folders/01.json` through `folders/37.json`.
 These are ink studies, not a clinical textbook.
 
 Each plate keeps its drawing. One Japanese character is written on it in the attached black ink, and no character is repeated. The first plates use characters from the Heart Sutra, norito, and the names of the kami. After that set is exhausted, the rest are further distinct kanji.
+
+The characters are brush-written in the manner of Kukai, the earliest of Japan's three great calligraphy masters. The ink is the black of the attached photographs. The drawing underneath is unchanged, and no character is repeated.
