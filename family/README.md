@@ -1,8 +1,10 @@
-# The Art of Making a Family
+# 11,306 Arts of Making a Family
 
-Eleven thousand three hundred and six turns, one for every calligraphy plate.
+Eleven thousand three hundred and six plates. One page each. None omitted. None repeated.
 
-Read from the inside out. Each evil already carries the force that defeats it.
+Each artwork is one supplied image, kept whole, with its own brush character in the margin. Fingers, hands, and legs are not covered. The wheel gives the page its turn: the evil already carries the force that overcomes it, by being faced the other way.
+
+Read from the inside out.
 
 | Month | Evil | Turned |
 |---|---|---|
@@ -19,8 +21,8 @@ Read from the inside out. Each evil already carries the force that defeats it.
 | November | Despair | Hope |
 | December | Revenge | Mercy |
 
-The twelve canon plates are in this folder. The 11,306 assignments are in `turns/01.json` through `turns/37.json`. Each record points at a plate already in `thumbs/`. The body is not removed. The brush character stays. The wheel only tells the force which way to face.
+The twelve canon paintings are in this folder. The page for every plate is in `turns/01.json` through `turns/37.json`. The count is in `MANIFEST.txt`.
 
-This is one philosophical art. It is not a line-by-line translation of ten thousand books. The pictures are original. They are not copies of any canvas.
+This is a philosophical art, written with care for the sacred traditions it learns from. It is not a fabricated translation of ten thousand books, and it is not a copy of any painter’s canvas. Those traditions, and those manners of painting, are the well. The book is one identity: the body, the margin character, the cream sheet, the turn.
 
 Blessed be upon God, blessed be upon God's creations.
