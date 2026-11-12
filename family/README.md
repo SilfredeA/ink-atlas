@@ -1,5 +1,7 @@
 # 11,306 Arts of Making a Family
 
+Every picture in [plates/](plates) now uses the same page as `01.jpg`–`12.jpg`: the cream sheet, the gold frame, and one brush character in the margin. Fingers and legs are not covered. Count: 11,306.
+
 **The 11,306 pictures are in [plates/](plates).** Open `plates/01` through `plates/37`. The thirteen files in this folder are only the cover and the twelve months.
 
 Eleven thousand three hundred and six plates. One page each. None omitted. None repeated.
