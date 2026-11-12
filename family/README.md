@@ -1,16 +1,12 @@
 # 11,306 Arts of Making a Family
 
-Every picture in [plates/](plates) now uses the same page as `01.jpg`–`12.jpg`: the cream sheet, the gold frame, and one brush character in the margin. Fingers and legs are not covered. Count: 11,306.
+**The 11,306 pictures are in [plates/](plates).** Open `plates/01` through `plates/37`.
 
-**The 11,306 pictures are in [plates/](plates).** Open `plates/01` through `plates/37`. The thirteen files in this folder are only the cover and the twelve months.
+Each page keeps the original drawing whole. Fingers, hands, and legs are not covered. One brush character, never repeated, stands in the margin. The line on the page is the turn: the evil already carries the force that overcomes it. Read from the inside out.
 
-Eleven thousand three hundred and six plates. One page each. None omitted. None repeated.
+Twelve seasons, twelve colors:
 
-Each artwork is one supplied image, kept whole, with its own brush character in the margin. Fingers, hands, and legs are not covered. The wheel gives the page its turn: the evil already carries the force that overcomes it, by being faced the other way.
-
-Read from the inside out.
-
-| Month | Evil | Turned |
+| Month | The evil | Turned |
 |---|---|---|
 | January | Anger | Protection |
 | February | Pride | Dignity |
@@ -25,8 +21,8 @@ Read from the inside out.
 | November | Despair | Hope |
 | December | Revenge | Mercy |
 
-The twelve canon paintings are in this folder. The page for every plate is in `turns/01.json` through `turns/37.json`. The count is in `MANIFEST.txt`.
+The longer page for each plate is in `turns/`. The count is 11,306. None omitted. None repeated.
 
-This is a philosophical art, written with care for the sacred traditions it learns from. It is not a fabricated translation of ten thousand books, and it is not a copy of any painter’s canvas. Those traditions, and those manners of painting, are the well. The book is one identity: the body, the margin character, the cream sheet, the turn.
+This book learns from the oldest counsel that a house can last: guard the tongue, feed the guest first, stay with the frightened, weep before you advise, do not copy an injury, and let the strong be a wall for the weak. It does not invent quotations from ten thousand books. The painters named in its making are a well of manners, not a set of copies. The identity of this collection is one: the body, the margin character, the seasonal ground, the turn.
 
 Blessed be upon God, blessed be upon God's creations.
