@@ -1,5 +1,7 @@
 # 11,306 Arts of Making a Family
 
+**The 11,306 pictures are in [plates/](plates).** Open `plates/01` through `plates/37`. The thirteen files in this folder are only the cover and the twelve months.
+
 Eleven thousand three hundred and six plates. One page each. None omitted. None repeated.
 
 Each artwork is one supplied image, kept whole, with its own brush character in the margin. Fingers, hands, and legs are not covered. The wheel gives the page its turn: the evil already carries the force that overcomes it, by being faced the other way.
